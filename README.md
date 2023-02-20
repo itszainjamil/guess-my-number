@@ -1,3 +1,4 @@
+# Guess My Number
 This is one of the projects of the JavaScript course I did from Udemy by Jonas Schmedtmann.
 
 ## Rules
